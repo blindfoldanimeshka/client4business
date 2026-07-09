@@ -122,3 +122,7 @@ app/
 alembic/           # миграции
 tests/             # pytest
 ```
+
+
+Задание выполнено по следующей схеме:
+Claude Sonnet 5 -> OpenCode Big Pickle (GLM 5.2) -> Cursor Agent -> OpenCode Big Pickle -> Cursor PR
